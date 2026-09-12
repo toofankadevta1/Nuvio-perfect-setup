@@ -1,4 +1,4 @@
-# 🍿 Nuvio Perfect Setup By KKc
+# 🍿 Nuvio Perfect Setup
 **[⚡ DEBRID / 🧲 P2P / 🌐 HTTP]** (*v2.0*)
 
 <br>
