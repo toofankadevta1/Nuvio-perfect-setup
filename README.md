@@ -1,12 +1,9 @@
-# 🍿 STREAMING FULL & EASY TOTAL BEGINNER'S GUIDE
+# 🍿 Nuvio Perfect Setup By KKc
 **[⚡ DEBRID / 🧲 P2P / 🌐 HTTP]** (*v2.0*)
 
 <br>
 <table class="home-showcase" role="presentation">
   <tr>
-    <td align="center">
-      <img src="assets/images/screens/stremio.webp" alt="Stremio">
-      <div><strong>🎞️ Stremio</strong></div>
     </td>
     <td align="center">
       <img src="assets/images/screens/nuvio.webp" alt="Nuvio">
